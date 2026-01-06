@@ -44,7 +44,7 @@ Enterprise & Simulated Networks
 
 ## 🛠️ Tools & Technologies
 
-Python | PyQt5 | Splunk | Burp Suite | Nmap | Metasploit | Volatility | Kali Linux | Azure 
+Python | PyQt5 | Splunk | Burp Suite | Nmap | Metasploit | Volatility | Kali Linux | Azure | Active Directory
 
 ## 🌐 Languages
 

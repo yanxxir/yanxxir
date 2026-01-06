@@ -8,10 +8,6 @@ Cybersecurity graduate with strong hands-on experience in offensive and defensiv
 
 🎓 B.Sc. in Cybersecurity
 
-🏅 Honor List — Academic Excellence
-
-🛡️ Cybersecurity Intern in National Cyber Security Centre JO
-
 🌍 Based in Jordan
 
 🔍 Interests: Penetration Testing, Threat Detection, OT Cybersecurity, CVE Hunting
